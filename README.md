@@ -25,3 +25,4 @@ Things you may want to cover:
 * ...
 how to use git hub
 how to use git revert
+how to use git reverts
